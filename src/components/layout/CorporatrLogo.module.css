@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+.logo {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+    font-family: 'Inspiration', cursive;
+    font-size: 75px;
+    /* color:rgb(81, 81, 81); */
+}
